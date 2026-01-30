@@ -44,14 +44,14 @@ The final submission included working client and server implementations, UML dia
 ---
 
 ## Repository Structure
-- frontend/ # client-side application
-- backend/ # Java services and database logic
-- diagrams/ # UML diagrams
-- report/ # final project report
+- `frontend/` # client-side application
+- `backend/` # Java services and database logic
+- `diagrams/` # UML diagrams
+- `report/` # final project report
 
 ---
 
 ## Documentation
 
 System requirements, architectural decisions, UML diagrams, testing strategy, and results are documented in:
-'report/MIE350_Final_Report.pdf'
+`report/MIE350_Final_Report.pdf`
